@@ -353,24 +353,28 @@ Krajnji rezultat je funkcionalna analitička aplikacija koja objedinjuje skladi�
 ## Screenshots
 
 1. Model zvijezde
-<img width="745" height="446" alt="Slika zaslona 2026-09-23 u 11 38 13" src="https://github.com/user-attachments/assets/5a86a490-0fad-4c4d-bfe5-11db81cbef2b" />
+
+<img width="745" height="446" alt="Slika zaslona 2026-09-23 u 11 38 13" src="images/Slika zaslona 2026-09-23 u 11 38 13.png" />
 
 2. Dashboard
-<img width="806" height="410" alt="Slika zaslona 2026-09-23 u 11 39 26" src="https://github.com/user-attachments/assets/2ecdf97b-9a21-40d8-a7b0-784e651dea5a" />
+
+<img width="806" height="410" alt="Slika zaslona 2026-09-23 u 11 39 26" src="images/Slika zaslona 2026-09-23 u 11 39 26.png" />
 
 3. Pregled najaktivnih dana u tjednu prema iznosu transakcija
-<img width="729" height="389" alt="Slika zaslona 2026-09-23 u 11 40 15" src="https://github.com/user-attachments/assets/fbbecff2-bda5-4145-b999-8333bcf54180" />
+
+<img width="729" height="389" alt="Slika zaslona 2026-09-23 u 11 40 15" src="images/Slika zaslona 2026-09-23 u 11 40 15.png" />
 
 4. Analizi tržišnog udjela i preferenciji kartičnih brendova
-<img width="807" height="408" alt="Slika zaslona 2026-09-23 u 11 41 10" src="https://github.com/user-attachments/assets/8c0ce5ee-ed6a-411e-9f9a-632cd5f3d540" />
+
+<img width="807" height="408" alt="Slika zaslona 2026-09-23 u 11 41 10" src="images/Slika zaslona 2026-09-23 u 11 41 10.png" />
 
 5. Promet po dobnim skupinama
-<img width="847" height="420" alt="Slika zaslona 2026-09-23 u 11 41 59" src="https://github.com/user-attachments/assets/9bcb8ff5-5527-4644-befe-fcbde2114d81" />
+
+<img width="847" height="420" alt="Slika zaslona 2026-09-23 u 11 41 59" src="images/Slika zaslona 2026-09-23 u 11 41 59.png" />
 
 6. Korišenje kartica zaduženosti klijenta
-<img width="871" height="428" alt="Slika zaslona 2026-09-23 u 11 42 53" src="https://github.com/user-attachments/assets/94caeb73-49ac-4cfd-b64f-ce850a27da6c" />
 
-
+<img width="871" height="428" alt="Slika zaslona 2026-09-23 u 11 42 53" src="images/Slika zaslona 2026-09-23 u 11 42 53.png" />
 
 
 ---
@@ -380,5 +384,4 @@ Krajnji rezultat je funkcionalna analitička aplikacija koja objedinjuje skladi�
 **Financial Transactions Dataset: Analytics** – Kaggle
 
 Izvorni dataset korišten je kao temelj za analizu transakcija, korisnika i kartica.
-
 P
